@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hello World</string>
+
+    <string name="custom_response1">I have the answer</string>
+    <string name="custom_response2">The answer is close</string>
+    <string name="custom_response3">Answer eludes me</string>
+
+    <string name="custom_message">Hola mundo mundial</string>
+    <string name="random_string">Este es un numero random entre 0 y %1d.</string>
+
+
+</resources>
